@@ -1,1 +1,1 @@
-# pages
+# pages mad for Websites
